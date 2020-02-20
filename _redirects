@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://scmamparo.netlify.com/* https://www.scmamparo.com.ph/:splat 301!
